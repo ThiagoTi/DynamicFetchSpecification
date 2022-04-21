@@ -8,7 +8,7 @@ org.hibernate.QueryException: query specified join fetching, but the owner of th
 
 ## Method
 
-**findAll**(**Specification**\<**T**> spec, **Pageable** pageable)
+**Page**\<**T**> **findAll**(**Specification**\<**T**> spec, **Pageable** pageable)
 
 [Interface JpaSpecificationExecutor\<T>](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaSpecificationExecutor.html)
 

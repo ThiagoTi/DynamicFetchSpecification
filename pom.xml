@@ -12,7 +12,7 @@
 	<artifactId>jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DynamicFetchSpecification</name>
-	<description>Dynamic fetch specification with limit</description>
+	<description>Dynamic fetch join specification with pageable</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
